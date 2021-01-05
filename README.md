@@ -1,2 +1,3 @@
-# Repo for Risk_Analysis project
-## This is place is to share the SQL and Python code for this project
+# Credit Risk Analysis project
+
+This project Analysed 50,000+ credit records from HOME CREDIT with logistics regression models to measure and predict the customer default rate (SQL, Excel, Python, Jupyter notebook, GitHub)
